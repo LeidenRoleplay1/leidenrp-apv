@@ -1,0 +1,47 @@
+# Project information
+site_name: Leiden wet en regelgeving
+site_url: 'https://wetboek.leidenrp.nl/'
+site_description: 'Wet en regelgeving van Leiden Roleplay'
+site_author: 'LeidenRP'
+
+# Copyright
+copyright: Copyright &copy; 2025 - 2026 Leiden Roleplay
+
+# Configuration
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+  language: nl
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+
+plugins:
+  - search:
+      lang: nl
+
+markdown_extensions:
+  - admonition
+  - attr_list
+
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
