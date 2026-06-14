@@ -100,30 +100,22 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 4 - Safezone**
 
-1. Het is verboden om de **Safezone** te gebruiken om te ontkomen aan illegale activiteiten en/of roleplay.
-2. **Voorbeelden van overtredingen binnen een Safezone:**
-    * Schade toebrengen, ontvoeren, uitbreken, overvallen, aanrijden of vermoorden van een persoon.
-→ **Sanctie:** Categorie 1.
-
----
-
-### **Artikel 5 - New Life Rule**
+### **Artikel 4 - New Life Rule**
 
 1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **15 minutes** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
 → **Sanctie:** Categorie 4.
 
 ---
 
-### **Artikel 6 - RDM (Random Deathmatch)**
+### **Artikel 5 - RDM (Random Deathmatch)**
 
 1. Het onnodig mishandelen, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot roleplay is verboden. Dit geldt ook voor dieren.
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 7 - No Value of Life (NVOL)**
+### **Artikel 6 - No Value of Life (NVOL)**
 
 1. Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt. Dit omvat onder andere:
     * Wegrijden met een voertuig met een snelheid van minder dan 30 km/u in een levensbedreigende situatie.
@@ -136,7 +128,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 8 - ERP (Erotische Roleplay)**
+### **Artikel 7 - ERP (Erotische Roleplay)**
 
 1. Het uitvoeren van erotische roleplay (ERP) is ten strengste verboden.
 2. **Voorbeelden van ERP:**
@@ -146,7 +138,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 9 - Zelfmoord-RP**
+### **Artikel 8 - Zelfmoord-RP**
 
 1. Het uitvoeren van een zelfmoordscenario is niet toegestaan.
     **Uitzondering:** Dit artikel kan alleen worden overschreden met goedkeuring van de staff. Het Bomvest is uitzondering op dit artikel. Hierbij moet wel een roleplay aan vast zitten.
@@ -154,7 +146,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 10 - Meta-gaming**
+### **Artikel 9 - Meta-gaming**
 
 1. Het is niet toegestaan om informatie die buiten het karakter is verkregen te gebruiken binnen het spel. Dit omvat alle informatie die jouw karakter niet binnen **FiveM** heeft verkregen.
     * Bij ontsnappingen uit het cellencomplex (Art. 25 APV) moet een medeplichtige videobewijs kunnen overleggen waaruit blijkt dat zij de gevangene hebben waargenomen binnen de stad en aannemelijk konden maken dat deze vastzat.
@@ -166,13 +158,12 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
         * Je moet gedeafened en gemute zijn.
     * Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
     * In calls zitten met je vrienden die geen Leiden Roleplay spelen is ook verboden.
-    * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
     * Een dashcam en/of bodycam is niet meer geldig vanaf het moment dat je ontploft bent. Dit telt ook op ontplofte voertuigen. Mocht dit toch gebruikt worden is dit Metagaming.
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 11 - Exploits**
+### **Artikel 10 - Exploits**
 
 1. Het moedwillig misbruiken van bugs en/of exploits om voordeel te behalen of in-game functionaliteiten te omzeilen, is verboden. Dit geldt ongeacht de gebruikte middelen.
     * Het opzettelijk annuleren van een uitzendbureaujob met als doel een gunstigere route of opdracht te verkrijgen, wordt eveneens beschouwd als exploit.
@@ -180,7 +171,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 12 - Cheats**
+### **Artikel 11 - Cheats**
 
 1. Het gebruik van software of hulpmiddelen van derden (cheats) om voordeel te behalen in het spel is verboden.
 2. Dit artikel geldt ook voor de Discord-client. Het gebruik van bijvoorbeeld **BetterDiscord** of soortgelijke clients is niet toegestaan.
@@ -189,18 +180,17 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 13 - (Overheids)kleding**
+### **Artikel 12 - (Overheids)kleding**
 
 1. Bij het aanmaken van je personage moet de kleding worden aangepast. Het is niet toegestaan om met standaard startkleding de server te betreden. Het personage dient een realistische uitstraling te hebben, waarbij de outfit klopt (inclusief armen) en er geen lichaamsdelen ontbreken.
 2. De kleding die door de werkgever is verstrekt voor het uitvoeren van het beroep moet gedragen worden.
 3. Het dragen van kleding van overheidsbanen door niet-ambtenaren is verboden, tenzij hier een goedgekeurde roleplay door een stafflid aan verbonden is.
 4. Officiële Leiden Roleplay-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
-5. Kleding die aangekocht is via de Leiden Roleplay website mag wel gedragen worden door iedereen (op eigen risico).
 → **Sanctie:** Eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
 
 ---
 
-### **Artikel 14 - Combatlogging**
+### **Artikel 13 - Combatlogging**
 
 1. Het is verboden de game moedwillig te verlaten tijdens een roleplay zonder geldige reden. Er wordt verwacht dat je binnen **5 minuten** terugkeert.
 2. Indien je de game wilt verlaten tijdens een roleplay, moet je dit duidelijk maken aan de betrokkenen. Dit kan via `/looc` of, indien dit niet werkt, via spraak.
@@ -208,7 +198,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 15 - Talen in de stad**
+### **Artikel 14 - Talen in de stad**
 
 1. De voertalen op Leiden Roleplay zijn **Nederlands** en **Engels**.
 2. Andere talen mogen niet provocerend of beledigend worden gebruikt tijdens roleplay.
@@ -217,7 +207,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 16 - Gebruik van “/report”**
+### **Artikel 15 - Gebruik van “/report”**
 
 1. Het gebruik van `/report` is bedoeld om overtredingen te melden zonder de roleplay te beïnvloeden of de overtreder op de hoogte te stellen.
 2. Het is verboden om anderen in-game te informeren over een ingediende report. Dit wordt beschouwd als **FailRP** (OOC gaan in RP).
@@ -226,7 +216,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 17 - Alt Characters**
+### **Artikel 16 - Alt Characters**
 
 1. Het is verboden alt-characters aan te maken met de intentie het startbedrag over te zetten naar een altro account. Ook mogen er niet meer dan **3 alt-accounts** worden aangemaakt.
 → **Sanctie:** Categorie 7.
@@ -237,7 +227,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 18 - Voertuighandelaar / Voertuigmeetings**
+### **Artikel 17 - Voertuighandelaar / Voertuigmeetings**
 
 1. Een voertuigdealer mag alleen bestaan met goedkeuring van KVK.
 2. Regels voor voertuighandelaren:
@@ -249,7 +239,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 19 - Gebruik van voertuigen**
+### **Artikel 18 - Gebruik van voertuigen**
 
 1. Burgers mogen geen overheidsvoertuigen besturen, tenzij hier een goede reden voor is of toestemming is gegeven door een stafflid.
 → **Sanctie:** Categorie 1.
@@ -266,7 +256,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 20 - Belediging**
+### **Artikel 19 - Belediging**
 
 1. Het gebruik van beledigingen met betrekking tot relevante of hedendaagse ziektes, of het maken van grensoverschrijdende racistische opmerkingen, is verboden op alle door Leiden Roleplay erkende platformen.
 → **Sanctie:**
@@ -276,13 +266,12 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 21 - Overvallen & Oplichten**
+### **Artikel 20 - Overvallen & Oplichten**
 
 1. Het overvallen of oplichten van personen is alleen toegestaan wanneer zij bezig zijn met criminele activiteiten.
     * Uitzondering: Bij gebruik van alle soorten wapens mag er altijd worden overvallen.
 2. De volgende situaties zijn verboden voor overvallen/oplichten:
     * Bankgeld of loodsen;
-    * Acties in safezones;
     * Overheidsvoorwerpen;
     * Het dwingen van iemand om een huis leeg te roven;
     * Nieuwe spelers;
@@ -301,9 +290,9 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 22 - Gedrag van Ambtenaren**
+### **Artikel 21 - Gedrag van Ambtenaren**
 
-*Onder ambtenaar wordt verstaan spelers die één van de volgende banen uitvoeren, zoals weergegeven in het F10-menu: Politie, Justitie, Ambulance, Wegenwacht, Handhaving.*
+*Onder ambtenaar wordt verstaan spelers die één van de volgende banen uitvoeren, zoals weergegeven in het F10-menu: Politie, Justitie, Ambulance, Pechhulp.*
 
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor overheidsobjecten en informatie verkregen tijdens de carrière, ook na ontslag.
@@ -312,10 +301,10 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 23 - Gedrag tegen overheidsmedewerkers**
+### **Artikel 22 - Gedrag tegen overheidsmedewerkers**
 
 1. Meldingen naar een overheidsinstantie moeten realistisch en uitgebreid zijn; valse meldingen zijn verboden.
-2. Roleplay met Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
+2. Roleplay met Pechhulp en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
 3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd Justitiemedewerkers.
 5. Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd.
@@ -324,28 +313,28 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
+### **Artikel 23 - Roleplay & Ledenaantal Criminele Organisaties**
 
 1. Criminele organisaties mogen maximaal 20 leden hebben, inclusief maximaal 5 hangarounds.
 2. Samenwerking tussen criminele organisaties is toegestaan met maximaal 2 gangs, met een totaal van maximaal 6 leden van beide gangs samen. Mits als doelstelling hier een roleplay aan gekoppeld is.
 3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
 5. Bij negatieve uitstraling van de organisatie (denk daarbij aan warns / combatgedrag) kunnen sancties volgen.
-→ **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
+→ **Sanctie:** Sanctie door OWC, mogelijk opschorting van de organisatie.
 
 ---
 
-### **Artikel 25 - Ontsnappen uit het cellencomplex**
+### **Artikel 24 - Ontsnappen uit het cellencomplex**
 
 1. Ontsnappen is toegestaan mits gekoppeld aan een geldig roleplay-scenario, beoordeeld door een stafflid.
 2. Ontsnappen is niet toegestaan tijdens afgesproken pauzes in roleplay.
 3. Ontsnappen is verboden tussen 01:30 en 10:00 uur.
-4. Er moeten minstens 10 politiemedewerkers aanwezig zijn.
+4. Er moeten minstens 5 politiemedewerkers aanwezig zijn.
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 26 - Witwassen, Winkel- en bankovervallen & overige criminaliteit**
+### **Artikel 25 - Witwassen, Winkel- en bankovervallen & overige criminaliteit**
 
 1. Witwassers overvallen is toegestaan wanneer de persoon gezichtsbedekkende kleding draagt, via het deepweb getrackt is, of verdachte handelingen verricht bij een afleverpunt.
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot of een persoonlijk voertuig dat van een soortgelijk model is.
@@ -359,63 +348,63 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 27 - Jobhoppen**
+### **Artikel 26 - Jobhoppen**
 
-1. Leden van groeperingen of overheidsinstanties dienen minimaal 72 uur te wachten na hun ontslag voordat zij ergens anders in dienst kunnen treden.
+1. Leden van groeperingen of overheidsinstanties dienen minimaal 48 uur te wachten na hun ontslag voordat zij ergens anders in dienst kunnen treden.
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 28 - Stemherkenning**
+### **Artikel 27 - Stemherkenning**
 
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent of de speler duidelijk moeite doet om de stem te vervormen.
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 29 - Omgaan met F6**
+### **Artikel 28 - Omgaan met F6**
 
 1. Het direct plaatsen van een geboeide persoon in een voertuig via F6 zonder uitgevoerde roleplay-handelingen is verboden. Volg altijd de realistische stappen (deuren openen, verbaal of via `/me` aankondigen).
 → **Sanctie:** Categorie 5.
 
 ---
 
-### **Artikel 30 - Loodsen**
+### **Artikel 29 - Loodsen**
 
-1. Het misleiden of bedriegen met betrekking tot loodsen is verboden. Alle overeenkomsten moeten via het commando `/docu` worden vastgelegen en ondertekend.
+1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 → **Sanctie:** Categorie 3. Boven de 2 miljoen volgt categorie 5.
 
 ---
 
-### **Artikel 31 - Eerlijkheid in tickets**
+### **Artikel 30 - Eerlijkheid in tickets**
 
 1. Je dient te allen tijde eerlijke en volledige informatie te verstrekken in een ticket.
 → **Sanctie:** Categorie 5.
 
 ---
 
-### **Artikel 32 - Baiting**
+### **Artikel 31 - Baiting**
 
 1. Het is verboden om eenieder opzettelijk uit te lokken zonder een geldig of geloofwaardig scenario voorafgaand aan de handeling.
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 33 - IRL Traden**
+### **Artikel 32 - IRL Traden**
 
 1. Het verhandelen van in-game items, valuta of accounts voor echt geld (IRL traden) is ten strengste verboden.
 → **Sanctie:** Categorie 7.
 
 ---
 
-### **Artikel 34 - Doxen**
+### **Artikel 33 - Doxen**
 
 1. Het is strikt verboden om persoonlijke informatie (zoals naam, adres, socials) van andere spelers te delen of hiermee te dreigen.
 → **Sanctie:** Categorie 7.
 
 ---
 
-### **Artikel 35 - Onderling oplossen**
+### **Artikel 34 - Onderling oplossen**
 
 1. Partijen kunnen een conflict onderling oplossen mits beide akkoord gaan (uitgezonderd cheaten, metagaming en exploits). Dit mag nooit leiden tot oneerlijk voordeel.
 → **Sanctie:** Categorie 2 + verlies van het voordeel.
@@ -433,4 +422,4 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 * Het is VERPLICHT een werkende microfoon te hebben en Nederlands te spreken.
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Leiden Roleplay”.
+APV opgesteld uit naam van het Management, bedoeld voor het eiland, de gemeente en de stad “Leiden Roleplay”.

@@ -10,6 +10,8 @@ copyright: Copyright &copy; 2025 - 2026 Leiden Roleplay
 # Configuration
 theme:
   name: material
+  logo: img/lrplogos/lrpBasic.png
+  favicon: img/lrplogos/lrpBasic.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -45,3 +47,6 @@ nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
   - Wetboek: wetboek.md
+
+extra_css:
+     - css/extra.css
