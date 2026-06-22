@@ -47,6 +47,9 @@ nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
   - Wetboek: wetboek.md
+  - Risicogebieden: risico-gebieden.md
+  - Douanegebieden: douanegebieden.md
+  - Streamen op Tedeapolis: streamen.md
 
 extra_css:
      - css/extra.css
