@@ -49,7 +49,7 @@ nav:
   - Wetboek: wetboek.md
   - Risicogebieden: risico-gebieden.md
   - Douanegebieden: douanegebieden.md
-  - Streamen op Tedeapolis: streamen.md
+  - Streamen: streamen.md
 
 extra_css:
      - css/extra.css
