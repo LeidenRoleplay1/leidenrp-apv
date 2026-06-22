@@ -32,7 +32,7 @@
     * Voor misdrijven waar de totale strafeis meer dan 251 maanden bedroeg, verjaren deze feiten na 21 dagen;
 
 2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
-3. Wanneer een zaak door de rechtbank is beoordeeld kan het zijn dat een misdrijf pas na 42 dagen verjaart.
+3. Wanneer een zaak door de rechtbank is beoordeeld kan het zijn dat een misdrijf pas na 36 dagen verjaart.
 
 ### A4 - Strafbepaling
 
@@ -78,7 +78,7 @@
     2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie.
 
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek. In deze 3 dagen heeft de Politie de tijd om de bewijzen te verzamelen en beschikbaar te stellen.  
+    1. Kan deze maximaal 3 (Realtime) dagen worden vastgehouden voor onderzoek. In deze 3 dagen heeft de Politie de tijd om de bewijzen te verzamelen en beschikbaar te stellen.  
     2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen.  
     3. Zal deze, wanneer het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden met een toevoeging van 10% op het basisuitkooppercentage.  
     4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname. Als een advocaat op de 3e dag pas de hOvj/Ovj benadert, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen om extra bewijs op te vragen, indien aanwezig.  
@@ -668,7 +668,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 3. Indien persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
 4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig eveneens direct in beslag genomen en vernietigd.
 5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
-6. Voertuigen die gehuurd worden op een illegale manier worden ook bestempeld als illegaal. Ook als er geen eigenaar aan te linken is is het voertuig illegaal. Dit zal resulteren in het in beslag nemen van het voertuig.
+6. Voertuigen die gehuurd worden op een illegale manier worden ook bestempeld als illegaal. Ook als er geen eigenaar aan te linken is, is het voertuig illegaal. Dit zal resulteren in het in beslag nemen van het voertuig.
 
 | Illegale voertuigen | Soort |
 |---|---|
