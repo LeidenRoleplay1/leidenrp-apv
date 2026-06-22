@@ -692,7 +692,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel IV - Opiumwet
 
-![Titel IV](img/wetboek/opiumwet.webp)
+![Titel IV](img/wetboek/Opiumwet.webp)
 
 ### Artikel IV-1 Harddrugs (2 OW)
 
@@ -955,7 +955,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VI - Wet op de Kansspelen
 
-![Titel VII](img/wetboek/Kansspellen.webp)
+![Titel VII](img/wetboek/kansspellen.webp)
 
 ### Artikel VI-1 Algemeen verbod (1 Wok)
 
