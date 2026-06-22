@@ -197,7 +197,7 @@
 
 ![Titel I](img/wetboek/Vermogen.webp)
 
-### Artikel I-1 Diefstal (310 SR)
+### Artikel I-1 teefstal (310 SR)
 
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
 2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
