@@ -17,5 +17,5 @@ Leiden Roleplay heeft verschillende discord servers die zijn goedgekeurd door he
 |---|---|:---:|
 |Leiden Roleplay | Main discord server van LeidenRP | [Invite](https://discord.gg/leidenrp) |
 |Leiden Support | Support discord server van LeidenRP | [Invite](https://discord.gg/jMbA48AKKV) |
-|Leiden Onderwereld | Cardealer discord server van LeidenRP | [Invite](https://discord.gg/DnRJHMPsnj) |
+|Leiden Onderwereld | Onderwereld discord server van LeidenRP | [Invite](https://discord.gg/DnRJHMPsnj) |
 |Leiden Overheid | Overheidsinstellingen van LeidenRP | [Invite](https://discord.gg/tsjM94vUVa) |
